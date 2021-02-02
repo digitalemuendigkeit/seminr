@@ -14,7 +14,7 @@ colhex2col <- function(colhex) {
 #
 # TODO: Addin.css ?
 # Manual Tool tips
-#
+# Add model that demonstrates all types of lines
 #
 
 
